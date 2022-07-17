@@ -149,6 +149,11 @@ cite, em {
   font-style: italic;
 }
 
+.primary-nav {
+  font-size: 14px;
+  font-weight: 400;
+}
+
 /*
   ========================================
   Buttons
