@@ -149,11 +149,6 @@ cite, em {
   font-style: italic;
 }
 
-.primary-nav {
-  font-size: 14px;
-  font-weight: 400;
-}
-
 /*
   ========================================
   Buttons
@@ -214,6 +209,11 @@ cite, em {
 
 .tagline {
   margin: 66px 0 22px 0;
+}
+
+.primary-nav {
+  font-size: 14px;
+  font-weight: 400;
 }
 
 /*
