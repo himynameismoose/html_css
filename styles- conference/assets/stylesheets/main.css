@@ -259,6 +259,7 @@ a:hover {
 
 a {
   color: #648880;
+  text-decoration: none;
 }
 
 .logo {
@@ -267,4 +268,8 @@ a {
   font-size: 48px;
   line-height: 44px;
   padding: 40px 0 22px 0;
+}
+
+p a {
+  border-bottom: 1px solid #dfe2e5;
 }
